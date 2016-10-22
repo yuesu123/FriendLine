@@ -1,0 +1,2 @@
+# FriendLine
+rewrite wechat FriendLine
